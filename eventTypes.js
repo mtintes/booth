@@ -1,0 +1,4 @@
+module.exports = {
+  SEND_TEXT: "SEND_TEXT",
+  RETRIEVED_TEXT: "RETRIEVED_TEXT"
+}
